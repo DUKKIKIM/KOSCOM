@@ -1,3 +1,6 @@
 [submodule "KOSCOM"]
 	path = KOSCOM
 	url = https://github.com/DUKKIKIM/KOSCOM
+[submodule "diff-match-patch-cpp-stl-dkkim"]
+	path = diff-match-patch-cpp-stl-dkkim
+	url = https://github.com/DUKKIKIM/diff-match-patch-cpp-stl.git
