@@ -9,5 +9,5 @@ before_script:
   - mkdir build
   - cd build
   - cmake --version
-#  - cmake -DCMAKE_VERBOSE_MAKEFILE=ON ..
+  - cmake -DCMAKE_VERBOSE_MAKEFILE=ON ..
 script: make && ./main
